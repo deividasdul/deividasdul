@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deividas
+- 👋 Hi, I’m Deividas.
 - 👀 I’m interested in learning everything that is related to information technology.
 - 🌱 I’m currently learning Full-Stack web development.
 - 💞️ I’m looking to join a team to help them build projects and to collaborate on learning resources so that I can learn more.
