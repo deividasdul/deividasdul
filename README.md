@@ -1,9 +1,16 @@
-- 👋 Hi, I’m Deividas.
-- 👀 I’m interested in learning everything that is related to information technology.
-- 🌱 I’m currently learning Full-Stack web development.
-- 💞️ I’m looking to join a team to help them build projects and to collaborate on learning resources so that I can learn more.
-- 📫 You can reach out to me via LinkedIn.
-- ⚡ Fun fact: Get to know me, and you'll discover all sorts of fun facts in person!
+**Hi there !**
+
+Student on a mission to become a full-stack web developer . Building cool web experiences is my jam !
+
+Learning: Front-end & Back-end (HTML, CSS, JS, Node) & Databases (SQL).
+
+Here you'll find:
+
+My projects showcasing my full-stack skills
+Contributions to open-source projects (learning & giving back )
+Connect with me! Open to collabs & feedback.
+
+Stay tuned! More projects & contributions coming soon .
 
 <!---
 deividasdul/deividasdul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
