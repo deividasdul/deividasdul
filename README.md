@@ -2,7 +2,7 @@
 
 Student on a mission to become a full-stack web developer . Building cool web experiences is my jam !
 
-Learning: Front-end & Back-end (HTML, CSS, JS, Node) & Databases (SQL).
+Learning: Front-end & Back-end (HTML, CSS, JS, Node, Express) & Databases (SQL, Postgres).
 
 Here you'll find:
 
